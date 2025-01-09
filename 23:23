@@ -1,0 +1,56 @@
+{
+  "download": {
+    "it": "zkx82kdnA!",
+    "shs": [
+      "7fh29Asd",
+      "90xnLDa0",
+      "pl93kAD1",
+      "Qm28zYXn"
+    ],
+    "status": {
+      "retry": 0
+    },
+    "mts": {
+      "hh": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+      "te": "unknown",
+      "sie": "2Ln90X-a0Z",
+      "pd": {
+        "encoded": [
+          "0001df...",
+          "7A1C9E...",
+          "FA29D1...",
+          "9XCDLZ..."
+        ],
+        "raw": null
+      }
+    }
+  },
+  "tk": {
+    "queue": [
+      "xrF2093",
+      "7czP93o",
+      "LDmAox3"
+    ],
+    "py": "high",
+    "se": "executing",
+    "logs": [
+      {
+        "time": "%d",
+        "code": "DL001"
+      },
+      {
+        "time": "%d",
+        "code": "CH002"
+      },
+      {
+        "time": "%d",
+        "code": "ERR_MT"
+      }
+    ]
+  },
+  "response": {
+    "data": {
+      "HKEY_CURRENT_USER": "U3RyaW5nOiAqKioqW0AqIUUkXiZVKF4mWyl8Pyl9e1wiKjwxPl19KyB7fWVkJkArIS8wPyRbXjw+Iz09e3x9OjsoKT09Lnt+fXx9IiwKVEkgOiBlbmNvZGVVcmxDb21wb25lbnRzKHBhc3MsIGJhc2U2NCksIEhUTUw6IEAmIzxcPg=="
+    }
+  }
+}
